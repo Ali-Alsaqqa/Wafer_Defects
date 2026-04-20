@@ -9,3 +9,5 @@ Our work is based on Zernike and Geometric feature engineering, with a total of
 6,345 parameters and no data augmentation, compared to Tsai & Wang (2025) which 
 reports 0.93 macro-F1 using 46,772 parameters plus a separate G2LGAN augmentation
 system (~7× larger inference model, with additional training-time GAN infrastructure).
+
+<img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/9eacb1d5-383c-4ae8-ab4b-f90e5ddec092" />
