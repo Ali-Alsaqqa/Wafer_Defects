@@ -11,3 +11,5 @@ reports 0.93 macro-F1 using 46,772 parameters plus a separate G2LGAN augmentatio
 system (~7× larger inference model, with additional training-time GAN infrastructure).
 
 <img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/9eacb1d5-383c-4ae8-ab4b-f90e5ddec092" />
+
+<img width="692" height="590" alt="image" src="https://github.com/user-attachments/assets/e71cfb37-2204-4e76-b1f5-ed844733f15c" />
