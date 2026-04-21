@@ -13,3 +13,5 @@ Per-class F1 on the test set: none 0.90, Center 0.96, Donut 0.85, Edge-Loc 0.84,
 
 The dataset can be downloaded from https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map. 
 Training was done using Google's colab platform, using T4 GPUs.
+
+Use of AI: I have used AI to assisst me in writing the code for this project.
