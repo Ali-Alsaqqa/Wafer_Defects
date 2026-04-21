@@ -15,3 +15,8 @@ The dataset can be downloaded from https://www.kaggle.com/datasets/qingyi/wm811k
 Training was done using Google's colab platform, using T4 GPUs.
 
 Use of AI: I have used AI to assisst me in writing the code for this project.
+
+Below is a visualization of the different classes.
+
+<img width="1070" height="1144" alt="image" src="https://github.com/user-attachments/assets/3492f44a-6ad3-490a-aec3-9cb2ab043bac" />
+
